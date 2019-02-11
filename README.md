@@ -1,11 +1,6 @@
 # README #
 
-This repository is read-only, make a private fork in the bitbucket server
-for your own files. Clone this forked repository to your local computer and solve
-the task.
-
-See on seitsmenda kodutöö failide hoidla, mida saab kasutada ainult algseks lugemiseks.
-Töötamiseks looge endale isiklik repositoorium, näiteks privaatne 'fork' bitbucket serverisse, millest saate luua klooni oma arvutisse.
+This repository is a solution for Java Algorithms homework number 7, second year of Tallinn University of Technology.
 
 ## Command line examples. Näidete kasutamine käsurealt ##
 #### Compilation. Kompileerimine: ####
